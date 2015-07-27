@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       TwitchInDota
-// @namespace  http://www.shunyweb.info
+// @namespace  https://github.com/ShunyFR/TwitchInDota/
 // @version    1.0
 // @author     Shuny
 // @description  Replace Dota 2 default chatrooms with their Twitch counterpart.
