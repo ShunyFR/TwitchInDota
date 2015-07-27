@@ -22,8 +22,8 @@ function getCurrentStreamId()
 
 var streamIdToChatArray = {
     "76561198198486997" : "dota2ti",
-    "76561198207546029" : "dota2ti_2",
-    "76561198239691668" : "dota2ti_3"
+    "76561198239691668" : "dota2ti_2",
+	"76561198207546029" : "dota2ti_3"
 };
 
 var chatIframe = document.getElementById('Chat');
